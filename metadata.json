@@ -1,0 +1,6 @@
+{
+  "name": "HYSI REMOVER AI",
+  "description": "Ultra-premium AI media studio for video & photo object removal, enhancement, and background extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
